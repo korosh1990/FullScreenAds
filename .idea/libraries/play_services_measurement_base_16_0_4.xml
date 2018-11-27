@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="play-services-measurement-base-16.0.4">
+    <CLASSES>
+      <root url="file://D:/Android/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.4.aar/c1e1243fa44555543f497e725744e737/res" />
+      <root url="jar://D:/Android/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.4.aar/c1e1243fa44555543f497e725744e737/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/Android/.gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-measurement-base/16.0.4/73a2e465a7105bad4fc553c80674804c082d57c6/play-services-measurement-base-16.0.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
